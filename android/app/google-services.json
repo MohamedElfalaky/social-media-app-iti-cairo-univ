@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "482365364852",
+    "project_id": "iti-cairo-univ-summer",
+    "storage_bucket": "iti-cairo-univ-summer.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482365364852:android:f1183fd29f4e17362b8f21",
+        "android_client_info": {
+          "package_name": "com.example.iti_summer_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHLQVijEb4cLNUERt_IVCOzLFjhX98XCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
